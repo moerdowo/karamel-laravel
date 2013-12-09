@@ -21,7 +21,7 @@ and add this line to app.php aliases array:
 
     'Karamel' => 'Totox777\Karamel\Facades\Profiler',
     
-config: don't forget to chage the api-key and memberID / Email you got from dev.karamel.co.id in vendor/totox777/karamelsrc/config/config.php
+config: don't forget to chage the api-key and memberID / Email you got from dev.karamel.co.id in vendor/totox777/karamel/src/config/config.php
 
 
 Sample Usage (Form):
