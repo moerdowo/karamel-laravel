@@ -37,4 +37,4 @@ Sample Usage (Validation):
     	// Corrent answer, continue with your submission process
     } else {
     	// Wrong answer, you may display a new AdsCaptcha and add an error message
-}
+    }
